@@ -1,4 +1,4 @@
-# TwitchAdSolutions
+# TwitchADS
 
 This repo aims to provide multiple solutions for blocking Twitch ads.
 
