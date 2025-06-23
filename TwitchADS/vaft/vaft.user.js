@@ -3,11 +3,11 @@
 // ==UserScript==
 // @name         TwitchADS (vaft)
 // @namespace    https://github.com/Zet4x600/TwitchADS
-// @version      1.1
-// @description  Multiple solutions for blocking Twitch ads (vaft) - No interruptions & HD quality fix
+// @version      1.2
+// @description  No interruptions & HD quality fix
 // @updateURL    https://github.com/Zet4x600/Zet4x/raw/refs/heads/main/TwitchADS/vaft/vaft.user.js
 // @downloadURL  https://github.com/Zet4x600/Zet4x/raw/refs/heads/main/TwitchADS/vaft/vaft.user.js
-// @author       https://github.com/cleanlock/VideoAdBlockForTwitch#credits & AI Assistant
+// @author       https://github.com/Zet4x600/
 // @match        *://*.twitch.tv/*
 // @run-at       document-start
 // @inject-into  page
